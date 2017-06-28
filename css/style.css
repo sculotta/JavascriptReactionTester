@@ -1,0 +1,18 @@
+* {
+	font-family:sans-serif;
+}
+
+#animals {
+	width:200px;
+	height:200px;
+	position:relative;
+}
+
+#time {
+	font-weight:bold;
+}
+
+body {
+	height:30%;
+	width:100%;
+}
